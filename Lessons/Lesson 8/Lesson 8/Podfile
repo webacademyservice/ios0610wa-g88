@@ -1,0 +1,7 @@
+target 'Lesson 8' do
+
+    use_frameworks!
+    pod 'Alamofire'
+    pod 'SDWebImage'
+
+end
